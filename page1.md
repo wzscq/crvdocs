@@ -1,5 +1,7 @@
+---
 layout: page
-title: "PAGE 1"
+title: Page1
 permalink: /page1/
+---
 
 this is page one.
